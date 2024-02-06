@@ -1,0 +1,7 @@
+.image{
+    width: 50px;
+}
+.parent{
+    display: flex;
+    gap: 30px;
+}
